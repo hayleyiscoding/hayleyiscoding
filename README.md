@@ -1,9 +1,4 @@
-[![github-banner.png](https://i.postimg.cc/7ht1Tb2P/github-banner.png)](https://postimg.cc/Lgfgc9DG)
 [![Screenshot-2023-08-08-at-1-29-13-pm.png](https://i.postimg.cc/Yqbn7qDS/Screenshot-2023-08-08-at-1-29-13-pm.png)](https://hayleyiscoding.com)
-[![Screenshot-2023-08-08-at-1-28-59-pm.png](https://i.postimg.cc/4xHz0Jrq/Screenshot-2023-08-08-at-1-28-59-pm.png)](https://hayleyiscoding.com)
-[![Screenshot-2023-08-08-at-1-30-17-pm.png](https://i.postimg.cc/3NyRwwCH/Screenshot-2023-08-08-at-1-30-17-pm.png)](https://hayleyiscoding.com)
-[![Screenshot-2023-08-08-at-1-29-37-pm.png](https://i.postimg.cc/brXJsh6D/Screenshot-2023-08-08-at-1-29-37-pm.png)](https://hayleyiscoding.com)
-[![Screenshot-2023-08-08-at-1-36-46-pm.png](https://i.postimg.cc/Zng1Tbj2/Screenshot-2023-08-08-at-1-36-46-pm.png)](https://hayleyiscoding.com)
 [Learn more about me >](https://hayleyiscoding.com) 
 
 <!--
